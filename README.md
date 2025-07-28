@@ -8,7 +8,7 @@ We are pleased to announce the **DeepLearn 2025 Hackathon Competition** that wil
 
 Anyone interested in learning more about machine learning techniques and trying their hand at the competition is welcome. Participants are encouraged to self-organize into small teams or work on their own to devise unique solutions to the challenge(s). The participants can work on the challenges on their own schedule. The competition will run for three weeks, however only a small fraction of that time is needed to obtain competitive results. Participants will have opportunities to interact with the organizers and with each other in person, via Zoom and on Slack. The **virtual kickoff meeting** will be on **Monday, July 7 (17:00 CET)** on [Zoom](https://ua-edu.zoom.us/j/83389981726?pwd=YUfkyzuqXhI1gq5YydKd8wSEqDO0kN.1). The in-person meeting will be on **Monday, July 21st (18:00 CET)**. Please see the Hackathon Slack page for meeting details and additional information. Winners will receive certificates and prizes.
 
- Interested participants can register via Slack at [here](https://join.slack.com/t/deeplearn2025/shared_invite/zt-37ui86edf-9mE3_Myw231FdaS5UlGyDw).   
+ Interested participants can register via Slack at [here](https://join.slack.com/t/deeplearn2025/shared_invite/zt-39w6uvy4k-goSa5Z~J6Y36b86dHmg2sw)   
  [Pre-Hackathon survey](https://universityofalabama.az1.qualtrics.com/jfe/form/SV_8bJJW9ehpwxjyZ0).
 
 There are seven main challenges:
@@ -23,4 +23,4 @@ There are seven main challenges:
 
 Please find more details and example Jupyter notebooks inside each challenge folder. 
 
-Solutions are due on Monday, July 28 at 18:00 CET. Winners will receive certificates and prizes.
+Solutions are due on Monday, July 31st at 18:00 CET. Winners will receive certificates and prizes.
